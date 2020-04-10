@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#d70000</item>
+        <item name="colorPrimaryDark">#d28c00</item>
+        <item name="colorAccent">#380b00</item>
+    </style>
+
+    <style name="txt_calcular">Calcular</style>
+
+</resources>
